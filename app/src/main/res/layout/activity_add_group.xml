@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/lightGray"
+    tools:context=".activity.AddGroupActivity">
+
+    <include layout="@layout/layout_toolbar"></include>
+
+    <EditText
+        android:id="@+id/et_group_name"
+        style="@style/Bar.White"
+        android:layout_marginTop="@dimen/activity_horizontal_margin"
+        android:hint="分组名称"/>
+
+    <RelativeLayout
+        android:id="@+id/ri_icon_choose"
+        style="@style/Bar.White.Selectable"
+        android:layout_marginTop="@dimen/activity_horizontal_margin"
+        >
+
+        <TextView
+            style="@style/Text"
+            android:layout_centerVertical="true"
+            android:text="icon"/>
+
+        <ImageView
+            android:id="@+id/iv_chosen_icon"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@id/iv_arrow"
+            android:layout_marginRight="@dimen/activity_horizontal_margin"
+            style="@style/Icon" />
+
+        <ImageView
+            android:id="@+id/iv_arrow"
+            style="@style/Icon"
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true"
+            android:src="@drawable/icon_arrow"/>
+    </RelativeLayout>
+
+</LinearLayout>

@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "G:\\Android\\todoList\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "G:\\Android\\todoList\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "G:\\Android\\todoList\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "G:\\Android\\todoList\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "G:\\Android\\todoList\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "G:\\Android\\todoList\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "G:\\Android\\todoList\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_gift.png.flat",
+        "source": "G:\\Android\\todoList\\app\\src\\main\\res\\drawable\\ic_gift.png"
+    },
+    {
+        "merged": "G:\\Android\\todoList\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "G:\\Android\\todoList\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "G:\\Android\\todoList\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_snowman.png.flat",
+        "source": "G:\\Android\\todoList\\app\\src\\main\\res\\drawable\\ic_snowman.png"
+    },
+    {
+        "merged": "G:\\Android\\todoList\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_boom.png.flat",
+        "source": "G:\\Android\\todoList\\app\\src\\main\\res\\drawable\\ic_boom.png"
+    },
+    {
+        "merged": "G:\\Android\\todoList\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "G:\\Android\\todoList\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\Android\\todoList\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_crutch.png.flat",
+        "source": "G:\\Android\\todoList\\app\\src\\main\\res\\drawable\\ic_crutch.png"
+    },
+    {
+        "merged": "G:\\Android\\todoList\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_todo.xml.flat",
+        "source": "G:\\Android\\todoList\\app\\src\\main\\res\\layout\\activity_add_todo.xml"
+    },
+    {
+        "merged": "G:\\Android\\todoList\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_glove.png.flat",
+        "source": "G:\\Android\\todoList\\app\\src\\main\\res\\drawable\\ic_glove.png"
+    },
+    {
+        "merged": "G:\\Android\\todoList\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_add.xml.flat",
+        "source": "G:\\Android\\todoList\\app\\src\\main\\res\\menu\\menu_add.xml"
+    },
+    {
+        "merged": "G:\\Android\\todoList\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "G:\\Android\\todoList\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "G:\\Android\\todoList\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_santa.png.flat",
+        "source": "G:\\Android\\todoList\\app\\src\\main\\res\\drawable\\ic_santa.png"
+    },
+    {
+        "merged": "G:\\Android\\todoList\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_arrow.png.flat",
+        "source": "G:\\Android\\todoList\\app\\src\\main\\res\\drawable\\icon_arrow.png"
+    },
+    {
+        "merged": "G:\\Android\\todoList\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_icon_choose.xml.flat",
+        "source": "G:\\Android\\todoList\\app\\src\\main\\res\\layout\\item_icon_choose.xml"
+    },
+    {
+        "merged": "G:\\Android\\todoList\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_main.xml.flat",
+        "source": "G:\\Android\\todoList\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "G:\\Android\\todoList\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_bell.png.flat",
+        "source": "G:\\Android\\todoList\\app\\src\\main\\res\\drawable\\ic_bell.png"
+    },
+    {
+        "merged": "G:\\Android\\todoList\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_icon_choose.xml.flat",
+        "source": "G:\\Android\\todoList\\app\\src\\main\\res\\layout\\activity_icon_choose.xml"
+    },
+    {
+        "merged": "G:\\Android\\todoList\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_tree.png.flat",
+        "source": "G:\\Android\\todoList\\app\\src\\main\\res\\drawable\\ic_tree.png"
+    },
+    {
+        "merged": "G:\\Android\\todoList\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_snowflake.png.flat",
+        "source": "G:\\Android\\todoList\\app\\src\\main\\res\\drawable\\ic_snowflake.png"
+    },
+    {
+        "merged": "G:\\Android\\todoList\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_sock.png.flat",
+        "source": "G:\\Android\\todoList\\app\\src\\main\\res\\drawable\\ic_sock.png"
+    },
+    {
+        "merged": "G:\\Android\\todoList\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_todolist.xml.flat",
+        "source": "G:\\Android\\todoList\\app\\src\\main\\res\\layout\\activity_todolist.xml"
+    },
+    {
+        "merged": "G:\\Android\\todoList\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "G:\\Android\\todoList\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\Android\\todoList\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_deer.png.flat",
+        "source": "G:\\Android\\todoList\\app\\src\\main\\res\\drawable\\ic_deer.png"
+    },
+    {
+        "merged": "G:\\Android\\todoList\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "G:\\Android\\todoList\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "G:\\Android\\todoList\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_group.xml.flat",
+        "source": "G:\\Android\\todoList\\app\\src\\main\\res\\layout\\activity_add_group.xml"
+    },
+    {
+        "merged": "G:\\Android\\todoList\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "G:\\Android\\todoList\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\Android\\todoList\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_add.png.flat",
+        "source": "G:\\Android\\todoList\\app\\src\\main\\res\\drawable\\icon_add.png"
+    },
+    {
+        "merged": "G:\\Android\\todoList\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_candle.png.flat",
+        "source": "G:\\Android\\todoList\\app\\src\\main\\res\\drawable\\ic_candle.png"
+    },
+    {
+        "merged": "G:\\Android\\todoList\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "G:\\Android\\todoList\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "G:\\Android\\todoList\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "G:\\Android\\todoList\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "G:\\Android\\todoList\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "G:\\Android\\todoList\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\Android\\todoList\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "G:\\Android\\todoList\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "G:\\Android\\todoList\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_toolbar.xml.flat",
+        "source": "G:\\Android\\todoList\\app\\src\\main\\res\\layout\\layout_toolbar.xml"
+    },
+    {
+        "merged": "G:\\Android\\todoList\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_ok.png.flat",
+        "source": "G:\\Android\\todoList\\app\\src\\main\\res\\drawable\\icon_ok.png"
+    },
+    {
+        "merged": "G:\\Android\\todoList\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "G:\\Android\\todoList\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "G:\\Android\\todoList\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_todo.xml.flat",
+        "source": "G:\\Android\\todoList\\app\\src\\main\\res\\layout\\item_todo.xml"
+    },
+    {
+        "merged": "G:\\Android\\todoList\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "G:\\Android\\todoList\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    }
+]

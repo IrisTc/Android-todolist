@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="vertivcl_divider">1dp</dimen>
+
+    <dimen name="activity_horizontal_padding">16dp</dimen>
+    <dimen name="activity_vertical_padding">16dp</dimen>
+
+    <dimen name="barHeight">52dp</dimen>
+    <dimen name="iconSize">28dp</dimen>
+    <dimen name="textSize">20dp</dimen>
+</resources>
